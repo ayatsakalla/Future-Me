@@ -247,3 +247,7 @@ a.underlined:hover {
     -webkit-transform: translate3d(0,0,0);
     transform: translate3d(0,0,0);
   }
+
+  .progress-bar {
+    font-size: 1.3rem;
+  }
