@@ -167,6 +167,16 @@ a.underlined:hover {
     color: hotpink;
 }
 
+h1.pinky:hover {
+    color: hotpink;
+    animation: bounce;
+    animation-duration: 2s; 
+}
+
+h1.pinky {
+    transition: 1.5s ease-in-out;
+}
+
 .hovereffect {
     width: 100%;
     height: 100%;
